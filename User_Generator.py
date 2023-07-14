@@ -22,7 +22,7 @@ try:
       print("[+] GITHUB @2quu")
   while True:
     try:
-      chr = int(input('[GITHUB MRZOQis] How many Character >> '))
+      chr = int(input('[GITHUB @2quu] How many Character >> '))
       break
     except:
       print("[+] Input Number Only!")
